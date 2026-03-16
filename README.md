@@ -16,7 +16,7 @@
 [![License](https://img.shields.io/github/license/Gridea-Pro/gridea-pro?label=License)](https://github.com/Gridea-Pro/gridea-pro/blob/main/LICENSE)
 [![Release](https://img.shields.io/github/v/release/Gridea-Pro/gridea-pro?label=Release)](https://github.com/Gridea-Pro/gridea-pro/releases/latest)
 
-[官网](https://gridea.pro) · [下载](https://gridea.pro/download) · [文档](https://gridea.pro/docs) · [主题](https://gridea.pro/themes)
+[官网](https://gridea.pro) · [下载](https://gridea.pro/download.html) · [文档](https://gridea.pro/docs.html) · [主题](https://gridea.pro/themes.html)
 
 </div>
 
