@@ -16,7 +16,7 @@ Write in Markdown. Preview in real-time. Publish anywhere — with one click.
 [![License](https://img.shields.io/github/license/Gridea-Pro/gridea-pro?label=License)](https://github.com/Gridea-Pro/gridea-pro/blob/main/LICENSE)
 [![Release](https://img.shields.io/github/v/release/Gridea-Pro/gridea-pro?label=Release)](https://github.com/Gridea-Pro/gridea-pro/releases/latest)
 
-[Website](https://gridea.pro) · [Download](https://gridea.pro/download) · [Documentation](https://gridea.pro/docs) · [Themes](https://gridea.pro/themes)
+[Website](https://gridea.pro) · [Download](https://gridea.pro/download.html) · [Documentation](https://gridea.pro/docs.html) · [Themes](https://gridea.pro/themes.html)
 
 </div>
 
