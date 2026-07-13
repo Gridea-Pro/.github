@@ -83,5 +83,4 @@ Gridea Pro 是 [Gridea](https://github.com/getgridea/gridea)（10k+ ⭐）的完
 
 如果 Gridea Pro 对你有帮助，欢迎支持项目的持续开发：
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/Gridea-Pro)
 [![爱发电](https://img.shields.io/badge/爱发电-支持我们-946ce6)](https://afdian.com/a/gridea-pro)

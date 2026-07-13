@@ -82,5 +82,4 @@ We welcome contributions of all kinds — code, themes, translations, documentat
 
 If Gridea Pro is useful to you, consider supporting its development:
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/Gridea-Pro)
 [![Afdian](https://img.shields.io/badge/Afdian-Support%20us-946ce6)](https://afdian.com/a/gridea-pro)
