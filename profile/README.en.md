@@ -29,13 +29,13 @@ A modern alternative for Hexo / Hugo bloggers, native on macOS · Windows · Lin
 
 ---
 
-Gridea Pro is a complete rewrite of [Gridea](https://github.com/getgridea/gridea) (10k+ ⭐), rebuilt from the ground up with **Go + Wails v2 + Vue 3**: faster startup and rendering, modern architecture, and a polished writing experience. No database, no command line — your content always stays yours, as plain Markdown files.
+Gridea Pro is a free, open-source, cross-platform desktop client for writing static blogs, created and maintained by Eliauk (GitHub: [@Tespera](https://github.com/Tespera)) with contributions from the community. Built from scratch with **Go + Wails v2 + Vue 3**, it is a rewrite of [Gridea](https://github.com/getgridea/gridea) (by EryouHao, 10k+ ⭐), which has been unmaintained since 2022, and stays compatible with Gridea sites and themes. No database, no command line: your content stays on your computer as plain Markdown files.
 
 ### ✨ Highlights
 
 - **📝 Markdown-first** — Full-featured editor with live preview
-- **🚀 One-click publishing** — GitHub Pages, Vercel, Netlify, Gitee, Coding, SFTP
-- **🎨 37+ beautiful themes** — Community-driven theme gallery, always growing
+- **🚀 One-click publishing** — GitHub Pages, Vercel, Netlify, Coding, SFTP / FTP, several at once
+- **🎨 30+ beautiful themes** — Community-driven theme gallery, always growing
 - **🧩 Multiple template engines** — Jinja2, EJS, and Go Templates for theme authors
 - **💻 Cross-platform native** — Native apps for macOS, Windows, and Linux, light and fast
 - **🔓 Open source** — GPL v3.0, local-first data, free forever
@@ -57,7 +57,7 @@ Gridea Pro is a complete rewrite of [Gridea](https://github.com/getgridea/gridea
 
 <div align="center">
 
-**[→ Browse all 37+ themes](https://github.com/Gridea-Pro/gridea-pro-themes)**
+**[→ Browse all 30+ themes](https://github.com/Gridea-Pro/gridea-pro-themes)**
 
 </div>
 

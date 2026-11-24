@@ -29,13 +29,13 @@ Hexo / Hugo 博主的现代化替代方案，macOS · Windows · Linux 全平台
 
 ---
 
-Gridea Pro 是 [Gridea](https://github.com/getgridea/gridea)（10k+ ⭐）的完全重构版本，基于 **Go + Wails v2 + Vue 3** 全新打造：更快的启动与渲染、现代化架构、更精致的写作体验。无需数据库、无需命令行，你的内容始终以 Markdown 文件的形式属于你自己。
+Gridea Pro 是一款开源、免费、跨平台的桌面端静态博客写作客户端，由 Eliauk（GitHub：[@Tespera](https://github.com/Tespera)）创建并主导维护，社区贡献者共同参与。它基于 **Go + Wails v2 + Vue 3** 从零重写了自 2022 年起停止维护的 [Gridea](https://github.com/getgridea/gridea)（原作者 EryouHao，10k+ ⭐），兼容 Gridea 的站点数据与主题。无需数据库、无需命令行，你的内容始终以 Markdown 文件的形式保存在本地、属于你自己。
 
 ### ✨ 亮点
 
-- **📝 Markdown 优先** — 全功能编辑器，实时预览，所见即所得
-- **🚀 一键发布** — GitHub Pages、Vercel、Netlify、Gitee、Coding、SFTP
-- **🎨 37+ 精美主题** — 社区驱动的主题库，持续增长
+- **📝 Markdown 优先** — 基于 Monaco 的编辑器，书写时实时预览
+- **🚀 一键发布** — GitHub Pages、Vercel、Netlify、Coding、SFTP / FTP，可同时发布到多个平台
+- **🎨 30+ 精美主题** — 社区驱动的主题库，持续增长
 - **🧩 多模板引擎** — Jinja2、EJS、Go Templates，主题开发自由选择
 - **💻 跨平台原生** — macOS、Windows、Linux 原生应用，轻量快速
 - **🔓 开源免费** — GPL v3.0 协议，数据本地化，永久免费
@@ -57,7 +57,7 @@ Gridea Pro 是 [Gridea](https://github.com/getgridea/gridea)（10k+ ⭐）的完
 
 <div align="center">
 
-**[→ 浏览全部 37+ 主题](https://github.com/Gridea-Pro/gridea-pro-themes)**
+**[→ 浏览全部 30+ 主题](https://github.com/Gridea-Pro/gridea-pro-themes)**
 
 </div>
 
@@ -77,7 +77,7 @@ Gridea Pro 是 [Gridea](https://github.com/getgridea/gridea)（10k+ ⭐）的完
 - 🐛 [报告 Bug](https://github.com/Gridea-Pro/gridea-pro/issues/new?template=bug_report.yml) · 💡 [功能建议](https://github.com/Gridea-Pro/gridea-pro/issues/new?template=feature_request.yml)
 - 💬 [社区讨论](https://github.com/Gridea-Pro/gridea-pro/discussions)
 - 📖 [贡献指南](https://github.com/Gridea-Pro/gridea-pro/blob/main/CONTRIBUTING.md) · 🔒 [安全策略](https://github.com/Gridea-Pro/.github/blob/main/SECURITY.md)
-- 💬 [微信交流群](https://github.com/Gridea-Pro/gridea-pro#gridea-pro-官方交流群)
+- 💬 [微信交流群](https://github.com/Gridea-Pro/gridea-pro#社区)
 
 ### 💖 支持项目
 
